@@ -1,4 +1,4 @@
-# Flask Bonus Program API 
+# REST сервис
 
 ## Описание
 
